@@ -55,5 +55,5 @@ A computer running on either Windows, MacOS or Ubuntu operating system installed
 - Copyright (c) 2020 Wambuilucy
 
 
-- The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
 
