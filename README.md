@@ -11,6 +11,7 @@
 - See various news sources and select the ones they prefer.
 - See all news sources from the source they selected.
 - See Image description and time the news article was created.
+- Click on an article and read it fully from the news source
 
 
 ## Specifications
