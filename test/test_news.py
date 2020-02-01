@@ -38,11 +38,4 @@ class ArticlesTest(unittest.TestCase):
     def test_instance(self):
         self.assertTrue(isinstance(self.new_article,Articles))
 
-    def test_to_check_instance_variables(self):
-        self.assertEquals(self.new_article.id,'CNN')
-        self.assertEquals(self.new_article.author,'Peter Polle')
-        self.assertEquals(self.new_article.title,'The tech scene in Africa-Is it the next big thing?')
-        self.assertEquals(self.new_article.description,'A look at various tech hubs in Africa and the impact they have on the worlds economy')
-        self.assertEquals(self.new_article.url,'techie.com')
-        self.assertEquals(self.new_article.image,'techie.com/7643t94.jpg')
-        self.assertEquals(self.new_article.date,'2018-04-11T07:57:16Z')
+    
