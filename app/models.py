@@ -25,8 +25,8 @@
 #         self.url = url
 #         self.image = image
 #         self.date = date
-  class Sources:
-        '''
+class Sources:
+    '''
     Sources class to define Sources Objects
     '''
 
